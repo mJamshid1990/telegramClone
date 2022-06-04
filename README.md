@@ -1,3 +1,3 @@
 # telegramClone
 
-## link: https://mjamshid1990.github.io/telegramClone/
+## link: https://telegramclone-007.netlify.app/
