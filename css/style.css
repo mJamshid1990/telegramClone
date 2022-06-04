@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+  display: none;
+}
+
+.container {
+  padding: 0 16px;
+  width: 100%;
+}
+
+/* div{
+  border: 1px solid red;
+} */
